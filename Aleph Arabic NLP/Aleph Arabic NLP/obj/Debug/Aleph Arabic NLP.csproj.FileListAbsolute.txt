@@ -1,0 +1,7 @@
+c:\users\fergany\documents\visual studio 2012\Projects\Aleph Arabic NLP\Aleph Arabic NLP\bin\Debug\Aleph Arabic NLP.exe.config
+c:\users\fergany\documents\visual studio 2012\Projects\Aleph Arabic NLP\Aleph Arabic NLP\bin\Debug\Aleph Arabic NLP.exe
+c:\users\fergany\documents\visual studio 2012\Projects\Aleph Arabic NLP\Aleph Arabic NLP\bin\Debug\Aleph Arabic NLP.pdb
+c:\users\fergany\documents\visual studio 2012\Projects\Aleph Arabic NLP\Aleph Arabic NLP\obj\Debug\Aleph_Arabic_NLP.Properties.Resources.resources
+c:\users\fergany\documents\visual studio 2012\Projects\Aleph Arabic NLP\Aleph Arabic NLP\obj\Debug\Aleph Arabic NLP.csproj.GenerateResource.Cache
+c:\users\fergany\documents\visual studio 2012\Projects\Aleph Arabic NLP\Aleph Arabic NLP\obj\Debug\Aleph Arabic NLP.exe
+c:\users\fergany\documents\visual studio 2012\Projects\Aleph Arabic NLP\Aleph Arabic NLP\obj\Debug\Aleph Arabic NLP.pdb
